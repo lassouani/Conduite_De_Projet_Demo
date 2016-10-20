@@ -1,4 +1,4 @@
-# Conduite_De_Projet_Demo
+# Conduite_De_Projet_Demo_Equipe2
 # Demo Depot
 
 Supervisor Mr Xavier Blanc: home page http://www.labri.fr/perso/xblanc/
